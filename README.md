@@ -5,7 +5,7 @@
 
 ## 💻 Sobre
 
-Aplicação desenvolvida como resolução do útilmo desafio do Bootcamp Ignite, na trilha de Node.js. Nela são desenvolvidos dois endpoints, que permitem a criação e a listagem de tarefas de um usuário. Seu desenvolvimento teve como objetivo o aprendizado sobre o modelo de arquitetura serverless, banco de dados DynamoDB e AWS Lambda.
+Aplicação desenvolvida como resolução do útilmo desafio do Bootcamp Ignite, na trilha de Node.js. Nela foram desenvolvidos dois endpoints, que permitem a criação e a listagem de tarefas de um usuário. Seu desenvolvimento teve como objetivo o aprendizado sobre o modelo de arquitetura serverless, banco de dados DynamoDB e AWS Lambda.
 
 ## 🛠 Tecnologias
 
